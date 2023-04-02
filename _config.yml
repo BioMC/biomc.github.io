@@ -96,9 +96,9 @@ lang: en-GB # Set the site language
 title: "BioMc" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "BioMc Research Group from University of Toronto"
-url: "https://tillyyc.github.io/biomc_home.github.io/" # Site url, also used in jekyll-seo-tag
-baseurl: "biomc_home.github.io/"
-repo: "https://tillyyc.github.io/biomc_home.github.io/"
+url: "https://biomc.github.io/" # Site url, also used in jekyll-seo-tag
+baseurl: "biomc.github.io/"
+repo: "https://biomc.github.io/"
 email: "biomc@utoronto.mail.ca"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
@@ -139,7 +139,7 @@ navigation_header:
 
 navigation_footer:
 - title: Created by BioMc Research Group
-  url: https://tillyyc.github.io/biomc_home.github.io/
+  url: https://biomc.github.io/
 
 # social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 #   Twitter: https://twitter.com/DavidDarnes
